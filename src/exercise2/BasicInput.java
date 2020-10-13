@@ -2,8 +2,7 @@ package exercise2;
 
 import java.util.Scanner;
 
-public class 
-BasicInput {
+public class BasicInput {
 
      {
         Scanner input = new Scanner(System.in);
